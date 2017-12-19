@@ -1,6 +1,6 @@
 Weather App with ReactJs and Redux
 
-User can type the location of any Place in US to fetch the weather details 
+User can type the location of any Places in US to fetch the weather details 
 
 It uses google map api to show the location.
 It uses openweather api to fetch the Temperature, Pressure and Humidity.
